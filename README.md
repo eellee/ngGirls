@@ -1,0 +1,2 @@
+# ngGirls
+AngularJS workshop
